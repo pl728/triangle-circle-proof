@@ -1,0 +1,38 @@
+{
+  "title": "Proof That All Triangles Are Circles",
+  "author": "Professor J. Nonsensical",
+  "publication_date": "April 1, 2023",
+  "abstract": "This groundbreaking paper presents an unprecedented mathematical proof that demonstrates the inherent circularity of all triangles.",
+  "keywords": ["triangles", "circles", "geometry", "nonsense"],
+  "proof": {
+    "step_1": {
+      "description": "Consider an arbitrary triangle ABC.",
+      "diagram": "Image_of_Triangle_ABC.png"
+    },
+    "step_2": {
+      "description": "Invoke the ancient Geometrick’s Law of Shape Shifting to morph triangle ABC into a circle.",
+      "diagram": "Triangle_Morphing_Into_Circle.gif"
+    },
+    "step_3": {
+      "description": "Use the Circle-Triangle Continuum Theorem to prove that the morphed shape is both a triangle and a circle simultaneously.",
+      "equation": "CTC_Theorem_Equation.png"
+    },
+    "step_4": {
+      "description": "Conclude that since ABC, an arbitrary triangle, can be a circle, all triangles are circles.",
+      "conclusion_image": "Triangular_Circle.png"
+    }
+  },
+  "references": [
+    {
+      "title": "The Circle-Triangle Continuum Theorem",
+      "author": "I. M. Imaginary",
+      "year": 1899
+    },
+    {
+      "title": "Geometrick’s Law of Shape Shifting",
+      "author": "Ancient Geometers",
+      "year": 500
+    }
+  ],
+  "disclaimer": "This paper is meant for entertainment and educational purposes and does not represent real mathematical principles."
+}
